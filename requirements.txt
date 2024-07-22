@@ -7,3 +7,4 @@ flask==3.0.0
 pypdf==3.17.3
 langchain-pinecone==0.1.1
 langchain-community==0.2.4
+-e .
